@@ -41,5 +41,5 @@ Command | Description
 ---
 
 ## Samples
-[![Sample 1](https://cdn.discordapp.com/attachments/653733403841134600/919183724384501790/IMG_1676.png)
-[![Sample 2](https://cdn.discordapp.com/attachments/653733403841134600/919183724145442867/IMG_1675.png)
+![Sample 1](https://cdn.discordapp.com/attachments/653733403841134600/919183724384501790/IMG_1676.png)
+![Sample 2](https://cdn.discordapp.com/attachments/653733403841134600/919183724145442867/IMG_1675.png)
